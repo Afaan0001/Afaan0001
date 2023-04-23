@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Afaan0001
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Cs, Java, C#.
+- 👀 I’m interested in Computer science.
+- 🌱 I’m currently learning C++, Java, Web Basics.
 - 💞️ I'm a Lone wolf right now.
-- 📫 How to reach me: +923174695733
+- 📫 How to reach me: Will update when I'll start doing stuff.
 
 <!---
 Afaan0001/Afaan0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
