@@ -13,8 +13,8 @@ My name is Afaan, and I'm a 17-year-old aspiring developer passionate about Pyth
 - 🌐 Working on web development projects to enhance my skills.
 
 ## Connect with Me
-- 📧 Feel free to [email me](mailto:afaan4323@gmail.com).
-- 🐦 Connect with me on Discord (af.aan)
+- 📧 Feel free to email me at afaan4323@gmail.com
+- 👾 Connect with me on Discord (af.aan)
 ## Tech Stack
 - 💻 Python | HTML | CSS | JavaScript
 
