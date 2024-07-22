@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-My name is Afaan, and I'm a 17-year-old aspiring developer passionate about Python and web development. Welcome to my GitHub profile!
+My name is Afaan, and I'm a 17-year-old aspiring developer passionate about Javascript and web development. Welcome to my GitHub profile!
 
 ## About Me
 - 🌐 Currently exploring the vast world of web development.
-- 🐍 Learning and mastering Python one project at a time.
+-   Learning and mastering Javascript one project at a time.
 - 🚀 Excited about open source and collaborative projects.
 - 🎓 High school student with a keen interest in technology.
 
