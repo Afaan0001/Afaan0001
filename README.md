@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Afaan, and I'm a 17-year-old aspiring developer passionate about Javascript and web development. Welcome to my GitHub profile!
+My name is Afaan, and I'm a 18-year-old aspiring developer passionate about Javascript and web development. Welcome to my GitHub profile!
 
 ## About Me
 - 🌐 Currently exploring the vast world of web development.
@@ -16,7 +16,7 @@ My name is Afaan, and I'm a 17-year-old aspiring developer passionate about Java
 - 📧 Feel free to email me at afaan4323@gmail.com
 - 👾 Connect with me on Discord (af.aan)
 ## Tech Stack
-- 💻 Python | HTML | CSS | JavaScript
+- 💻 | HTML | CSS | JavaScript
 
 ## GitHub Stats
 [![Afaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afaan0001&show_icons=true&theme=radical)](https://github.com/Afaan0001)
