@@ -9,7 +9,7 @@ My name is Afaan, and I'm a 18-year-old aspiring developer passionate about Java
 - 🎓 High school student with a keen interest in technology.
 
 ## Current Projects
-- 🔍 Exploring new ways to leverage Python for various applications.
+- 🔍 Exploring new ways to leverage JavaScript for various web applications.
 - 🌐 Working on web development projects to enhance my skills.
 
 ## Connect with Me
